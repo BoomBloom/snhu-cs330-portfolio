@@ -1,0 +1,12 @@
+# Visual Studio build artifacts
+.vs/
+Debug/
+Release/
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.log
+*.exe
+.DS_Store
